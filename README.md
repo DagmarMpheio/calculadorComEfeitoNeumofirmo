@@ -1,2 +1,2 @@
-"# calculadorComEfeitoNeumofirmo"<br>
+# Abaixo o resultado
 ![Screenshot](img/result.png)
